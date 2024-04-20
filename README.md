@@ -34,9 +34,9 @@ This project has taught the group the power of teaching an AI to operate under c
 This showed us the basics of how AI works and how it can be implemented into a real world scenario. Cars with autonomous driving have these capabilites, and as autonomy continues to grow, robotic vision and the many uses such as object detection will continue to be the object that spearheads the advancement of autonomy.
 
 ## About the Team
-- ## Frank Zachman ## : Spring 2024 graduate in Mechanical Engineering. Minoring in Math & Electrical/Mechatronics engineering.
-- ## Elijah Weddle ## : Spring 2024 graduate in Mechanical Engineering. Minoring in Math & Mechatronics engineering.
-- ## Zechariah Georgian ## : Fall 2024 graduate in Mechatronics/Robotics Engineering. Minoring in Math.
+- ** Frank Zachman ** : Spring 2024 graduate in Mechanical Engineering. Minoring in Math & Electrical/Mechatronics engineering.
+- ** Elijah Weddle ** : Spring 2024 graduate in Mechanical Engineering. Minoring in Math & Mechatronics engineering.
+- ** Zechariah Georgian ** : Fall 2024 graduate in Mechatronics/Robotics Engineering. Minoring in Math.
 
 ![image](https://github.com/RoboticsZ12/JetBot_Project/assets/142946153/f478ea38-f1e8-4bee-9aa3-173c3a1f17bb)
 
