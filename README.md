@@ -24,6 +24,8 @@ In the second task, we were to use the JetBot to autonomously complete three loo
 To achieve this, we needed to consider training models for road following and collision avoidance separately before integrating them for the test runs.
 All data, and further description, can be found under [Autonomous Drive](JetBot/Autonomy/src/Recorded_data) folder tab. 
 
+If the you wish to acquire the code that was utilized, along with steps from the JetBot website, please see [Code & Walk Through](JetBot/src)
+
 ## Summary:
 
 This project has taught the group the power of teaching an AI to operate under certain circumstances and have the ability of controlling actuation from a camera input. It underscored the potential for AI to navigate complex environments autonomously while continually scanning for certain digital outputs such as stoplights for our project. This showed us the basics of how AI works and how it can be implemented into a real world scenario. Cars with autonomous driving have these capabilites, and as autonomy continues to grow, robotic vision and the many uses such as object detection will continue to be the object that spearheads the advancement of autonomy. 
