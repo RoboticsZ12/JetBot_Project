@@ -27,7 +27,7 @@ All data, and further description, can be found under [Autonomous Drive](JetBot/
 If the you wish to acquire the code that was utilized, along with steps from the JetBot website, please see [Code & Walk Through](JetBot/src)
 
 ## Summary:
-This project has taught the group the power of teaching an AI to operate under certain circumstances and have the ability of controlling actuation from a camera input. It highlighted the potential for AI to navigate complex environments autonomously while continually scanning for certain digital outputs, such as stoplights for our project. By recording various images such as [BLOCKED](JetBot/src) and  [UNBLOCKED](JetBot/src) images, we basically "teach" the jetbot where the desired path is and how it should navigate itself through the obstacles.
+This project has taught the group the power of teaching an AI to operate under certain circumstances and have the ability of controlling actuation from a camera input. It highlighted the potential for AI to navigate complex environments autonomously while continually scanning for certain digital outputs, such as stoplights for our project. By recording various images such as [BLOCKED](JetBot/Autonomy/src/Blocked) and  [UNBLOCKED](JetBot/Autonomy/src/Free) images, we basically "teach" the jetbot where the desired path is and how it should navigate itself through the obstacles.
 
 This showed us the basics of how AI works and how it can be implemented into a real world scenario. Cars with autonomous driving have these capabilites, and as autonomy continues to grow, robotic vision and the many uses such as object detection will continue to be the object that spearheads the advancement of autonomy.
 
