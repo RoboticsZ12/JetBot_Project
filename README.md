@@ -27,9 +27,7 @@ All data, and further description, can be found under [Autonomous Drive](JetBot/
 If the you wish to acquire the code that was utilized, along with steps from the JetBot website, please see [Code & Walk Through](JetBot/src)
 
 ## Summary:
-
-This project has taught the group the power of teaching an AI to operate under certain circumstances and have the ability of controlling actuation from a camera input. It underscored the potential for AI to navigate complex environments autonomously while continually scanning for certain digital outputs such as stoplights for our project. This showed us the basics of how AI works and how it can be implemented into a real world scenario. Cars with autonomous driving have these capabilites, and as autonomy continues to grow, robotic vision and the many uses such as object detection will continue to be the object that spearheads the advancement of autonomy. 
-
+This project has taught the group the power of teaching an AI to operate under certain circumstances and have the ability of controlling actuation from a camera input. It underscored the potential for AI to navigate complex environments autonomously while continually scanning for certain digital outputs such as stoplights for our project. This showed us the basics of how AI works and how it can be implemented into a real world scenario. Cars with autonomous driving have these capabilites, and as autonomy continues to grow, robotic vision and the many uses such as object detection will continue to be the object that spearheads the advancement of autonomy.
 
 ![image](https://github.com/RoboticsZ12/JetBot_Project/assets/142946153/f478ea38-f1e8-4bee-9aa3-173c3a1f17bb)
 
