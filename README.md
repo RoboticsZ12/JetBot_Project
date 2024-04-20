@@ -14,8 +14,7 @@ To begin, the jetbot first had to be put to a series of tests and different tuni
 ## Task 1: Manual Controlled Racing
 
 For the first task, the goal is to complete three loops around the racetrack using manual control. The ultimate goal of this portion of the project solely relied on the ability of driver to manouver through the obstacle course without leaving the predefined road. 
- To accomplish this, we connected a gaming controller and tuned it so that the controller would have the capability of controlling speed with one joystick, and motion with the other. 
-
+ To accomplish this, we connected a gaming controller and tuned it so that the controller would have the capability of controlling speed with one joystick, and motion with the other. The steps to set up this controller can be found under the "Teleoperation" folder, or the tab provided. 
 [Teleoperation](JetBot/Controller/Teleoperation)
  
 ## Task 2: Automatic Controlled Racing using the Camera
