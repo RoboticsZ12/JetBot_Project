@@ -11,8 +11,6 @@ To begin, the jetbot first had to be put to a series of tests and different tuni
 - **Road Following**: Train your JetBot to follow a predefined path.
 - **Object Following**: Teach your JetBot to track and follow objects.
 
-
-
 ## Task 1: Manual Controlled Racing
 
 For the first task, the goal is to complete three loops around the racetrack using manual control. The ultimate goal of this portion of the project solely relied on the ability of driver to manouver through the obstacle course without leaving the predefined road. 
@@ -31,7 +29,9 @@ If the you wish to acquire the code that was utilized, along with steps from the
 ## Summary:
 This project has taught the group the power of teaching an AI to operate under certain circumstances and have the ability of controlling actuation from a camera input. It highlighted the potential for AI to navigate complex environments autonomously while continually scanning for certain digital outputs, such as stoplights for our project. By recording various images such as [BLOCKED](JetBot/Autonomy/src/Recorded_data/Blocked) and  [FREE](JetBot/Autonomy/src/Recorded_data/Free) images, we basically "teach" the jetbot where the desired path is and how it should navigate itself through the obstacles.
 
-This showed us the basics of how AI works and how it can be implemented into a real world scenario. Cars with autonomous driving have these capabilites, and as autonomy continues to grow, robotic vision and the many uses such as object detection will continue to be the object that spearheads the advancement of autonomy.
+Overall, the project went well for our group and the problems remained at a minimum. We were aware that many groups exsperienced problems with sudden shutdowns due to RAM spikes. Fortunately for us, we did not experience these errors and our jetbot performed at a high performance. There is nothing we would change in terms of our approach and execution.
+
+This project has showed us the basics of how AI works and how it can be implemented into a real world scenario. Cars with autonomous driving have these capabilites, and as autonomy continues to grow, robotic vision and the many uses such as object detection will continue to be the object that spearheads the advancement of autonomy.
 
 ## About the Team
 - **Frank Zachman**:
