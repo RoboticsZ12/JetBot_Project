@@ -22,7 +22,7 @@ For the first task, the goal is to complete three loops around the racetrack usi
 In the second task, we were to use the JetBot to autonomously complete three loops using only the onboard camera feedback input. The objective was to navigate the track while adhering to traffic lights, avoiding obstacles, and staying within track boundaries.
 
 To achieve this, we needed to consider training models for road following and collision avoidance separately before integrating them for the test runs.
-All data can be found under [Autonomous Drive](JetBot/Autonomy/src/Recorded_data) folder tab. 
+All data, and further description, can be found under [Autonomous Drive](JetBot/Autonomy/src/Recorded_data) folder tab. 
 
 ## Summary:
 
