@@ -1,6 +1,6 @@
 # JetBot Track Racing Project
 
-Welcome to the JetBot Track Racing project! In this collaborative endeavor, an open-source robot powered by NVIDIA Jetson Nano was utilized to complete the task. 
+Welcome to the JetBot Track Racing project! In this collaborative endeavor, an open-source robot powered by NVIDIA Jetson Nano was utilized to complete the task. The NVIDIA jetbo website that we used is provided here, [https://jetbot.org/master/](https://jetbot.org/master/). 
 
 # Beginning the Project
 
