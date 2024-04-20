@@ -5,3 +5,4 @@ The code utilized for this project was fully reliant on the use of Python. The r
 
 As previously stated, the provided files are a type of walk through guide for the Jetbot system. Most of the code is provided on the Jetbot website, however some modifications were made to the code in order for the program to run smoothly for our own project needs. 
 
+All files can be opened in VScode. Ensure that the proper VScode library extensions are downloaded such as Python, Git, and Github.
